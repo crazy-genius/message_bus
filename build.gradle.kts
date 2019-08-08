@@ -4,6 +4,8 @@
  * This generated file contains a sample Kotlin library project to get you started.
  */
 
+varsion = "0.0.1"
+
 plugins {
     // Apply the Kotlin JVM plugin to add support for Kotlin on the JVM.
     id("org.jetbrains.kotlin.jvm").version("1.3.31")
